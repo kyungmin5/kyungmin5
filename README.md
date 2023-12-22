@@ -1,7 +1,7 @@
 ### About me 👋
 
 
-####  :clipboard: <a href="https://www.notion.so/KyungminKwak-44bef54097814f8da4c73b1679171d28" target="_blank">노션 포트폴리오 보기</a>
+####  :clipboard: <a href="https://poised-cathedral-c81.notion.site/KyungminKwak-44bef54097814f8da4c73b1679171d28?pvs=4" target="_blank">노션 포트폴리오 보기</a>
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungmin5&show_icons=true&theme=radical)
